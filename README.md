@@ -1,6 +1,6 @@
-[![A record book.](a-record.png)](https://github.com/kennethormandy/a-record)
+<!-- [![A record book.](a-record.png)](https://github.com/kennethormandy/a-record)
 
-***
+*** -->
 
 # A Record
 
