@@ -1,0 +1,62 @@
+{
+  "cloudflare.com": {
+    "name": "CloudFlare",
+    "url":  "https://support.cloudflare.com/hc/en-us/articles/200169096-How-do-I-add-A-records-"
+  },
+  "digitalocean.com": {
+    "name": "Digital Ocean",
+    "url":  "https://www.digitalocean.com/community/tutorials/how-to-set-up-a-host-name-with-digitalocean#step-three"
+  },
+  "dnsimple.com": {
+    "name": "dnsimple",
+    "url":  "http://support.dnsimple.com/articles/advanced-editor/"
+  },
+  "domaindiscount24.net": {
+    "name": "domain discount 24",
+    "url":  "http://enwiki.domaindiscount24.com/index.php/Faq:mx-record"
+  },
+  "domain.com": {
+    "name": "Domain.com",
+    "url":  "http://www.domain.com/knowledgebase/beta/article.bml?ArticleID=1776&type=How%20To#Nugget_2825"
+  },
+  "dreamhost.com": {
+    "name": "Dreamhost",
+    "url":  "http://wiki.dreamhost.com/A_record"
+  },
+  "gandi.net": {
+    "name": "Gandi.net",
+    "url":  "http://wiki.gandi.net/en/dns/zone/a-record"
+  },
+  "godaddy.com": {
+    "name": "GoDaddy",
+    "url":  "https://support.godaddy.com/help/article/680/managing-dns-for-your-domain-names?countrysite=ca#arecs"
+  },
+  "hostmonster.com": {
+    "name": "HostMonster",
+    "url": "https://my.hostmonster.com/cgi/help/a_record"
+  },
+  "hover.com": {
+    "name": "Hover",
+    "url":  "https://help.hover.com/entries/21204757-How-to-Edit-DNS-records-A-CNAME-MX-TXT-and-SRV"
+  },
+  "iwantmyname.com": {
+    "name": "iwantmyname",
+    "url":  "https://help.iwantmyname.com/customer/portal/articles/209029-how-to-add-a-dns-a-record-for-your-domain"
+  },
+  "namecheap.com": {
+    "name": "Namecheap",
+    "url":  "http://www.namecheap.com/support/knowledgebase/article.aspx/319/78/"
+  },
+  "networksolutions.com": {
+    "name": "Network Solutions",
+    "url":  "http://www.networksolutions.com/support/how-to-manage-advanced-dns-records/"
+  },
+  "uniteddomains.com": {
+    "name": "United Domains",
+    "url":  "https://www.uniteddomains.com/faq/"
+  },
+  "webfaction.com": {
+    "name": "WebFaction",
+    "url":  "http://docs.webfaction.com/user-guide/domains.html#configuring-a-records"
+  }
+}

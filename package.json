@@ -1,0 +1,13 @@
+{
+  "name": "a-record",
+  "version": "0.0.0",
+  "description": "Share specific help for adding an A Record to a domain.",
+  "homepage": "https://github.com/kennethormandy/a-record",
+  "author": "Kenneth Ormandy <kenneth@chloi.io> (http://kennethormandy.com)",
+  "license": "MIT",
+  "repository": "git@github.com:kennethormandy/a-record.git",
+  "keywords": [],
+  "scripts": {
+    "test": "echo \"Error: no test specified…yet! Pull requests on kennethormandy/a-record are greatly appreciated.\" && exit 1"
+  }
+}
