@@ -23,6 +23,10 @@
     "name": "Dreamhost",
     "url":  "http://wiki.dreamhost.com/A_record"
   },
+  "dynadot.com": {
+    "name": "Dynadot",
+    "url":  "https://www.dynadot.com/community/help/question/create-A-record"
+  },
   "gandi.net": {
     "name": "Gandi.net",
     "url":  "http://wiki.gandi.net/en/dns/zone/a-record"
