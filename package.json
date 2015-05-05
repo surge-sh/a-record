@@ -1,6 +1,6 @@
 {
   "name": "a-record",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "description": "Share specific help for adding DNS Records to a domain.",
   "homepage": "https://github.com/kennethormandy/a-record",
   "author": "Kenneth Ormandy <kenneth@chloi.io> (http://kennethormandy.com)",
