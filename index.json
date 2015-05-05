@@ -84,6 +84,11 @@
     "arecord": "http://www.networksolutions.com/support/how-to-manage-advanced-dns-records/",
     "cname":   "http://www.networksolutions.com/support/how-to-manage-advanced-dns-records/"
   },
+  "nomeo.be": {
+    "name":    "Nomeo",
+    "arecord": "http://www.nomeo.be/over-nomeo/nieuws/cnames-op-de-domeinnaam-root-nu-mogelijk.aspx",
+    "cname":   "http://www.nomeo.be/over-nomeo/nieuws/cnames-op-de-domeinnaam-root-nu-mogelijk.aspx"
+  },
   "uniteddomains.com": {
     "name":    "United Domains",
     "arecord": "https://www.uniteddomains.com/faq/",
