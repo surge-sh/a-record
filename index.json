@@ -69,6 +69,11 @@
     "arecord": "https://help.iwantmyname.com/customer/portal/articles/209029-how-to-add-a-dns-a-record-for-your-domain",
     "cname":   "https://help.iwantmyname.com/customer/portal/articles/209023-how-do-i-add-a-cname-dns-record-"
   },
+  "linode.com": {
+    "name":    "Linode",
+    "arecord": "https://www.linode.com/docs/networking/dns/dns-manager#the-dns-manager-page",
+    "cname":   "https://www.linode.com/docs/networking/dns/dns-manager#the-dns-manager-page"
+  },
   "namecheap.com": {
     "name":    "Namecheap",
     "arecord": "http://www.namecheap.com/support/knowledgebase/article.aspx/319/78/",
