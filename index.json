@@ -39,6 +39,11 @@
     "arecord": "https://www.dynadot.com/community/help/question/create-A-record",
     "cname":   "https://www.dynadot.com/community/help/question/create-CNAME"
   },
+  "freeparking.co.uk": {
+    "name":    "Freeparking.co.uk",
+    "arecord": "http://www.freeparking.co.nz/support/technical-guides/managing-dns-records#main",
+    "cname":   "http://www.freeparking.co.nz/support/technical-guides/managing-dns-records#main"
+  },
   "gandi.net": {
     "name":    "Gandi.net",
     "arecord": "http://wiki.gandi.net/en/dns/zone/a-record",
