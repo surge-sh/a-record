@@ -99,6 +99,11 @@
     "arecord": "http://www.nomeo.be/over-nomeo/nieuws/cnames-op-de-domeinnaam-root-nu-mogelijk.aspx",
     "cname":   "http://www.nomeo.be/over-nomeo/nieuws/cnames-op-de-domeinnaam-root-nu-mogelijk.aspx"
   },
+  "pop.co": {
+    "name":    "Pop.co",
+    "arecord": "https://github.com/kennethormandy/a-record/issues/10#issue-107371194",
+    "cname":   "https://github.com/kennethormandy/a-record/issues/10#issue-107371194"
+  },
   "uniteddomains.com": {
     "name":    "United Domains",
     "arecord": "https://www.uniteddomains.com/faq/",
