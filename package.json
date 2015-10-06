@@ -7,7 +7,11 @@
   "license": "MIT",
   "repository": "git@github.com:kennethormandy/a-record.git",
   "keywords": [],
+  "devDependencies": {
+    "jsonlint": "1.6.2"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified…yet! Pull requests on kennethormandy/a-record are greatly appreciated.\" && exit 1"
+    "test": "jsonlint index.json -q",
+    "prepublish": "npm test"
   }
 }
