@@ -29,6 +29,11 @@
     "arecord": "http://www.domain.com/knowledgebase/beta/article.bml?ArticleID=1919",
     "cname":   "http://www.domain.com/knowledgebase/beta/article.bml?ArticleID=1682"
   },
+  "domains.google.com": {
+    "name":    "Google Domains",
+    "arecord": "https://support.google.com/domains/answer/3290350?hl=en&vid=1-635797029920152600-3792870146",
+    "cname": "https://support.google.com/domains/answer/3290350?hl=en&vid=1-635797029920152600-3792870146"
+  },
   "dreamhost.com": {
     "name":    "Dreamhost",
     "arecord": "http://wiki.dreamhost.com/A_record",
