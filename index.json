@@ -54,6 +54,11 @@
     "arecord": "https://support.godaddy.com/help/article/680/managing-dns-for-your-domain-names?countrysite=ca#arecs",
     "cname":   "https://support.godaddy.com/help/article/680/managing-dns-for-your-domain-names?countrysite=ca#cnames"
   },
+  "domains.google.com": {
+    "name":    "Google Domains",
+    "arecord": "https://support.google.com/domains/answer/3290350?hl=en&vid=1-635797029920152600-3792870146",
+    "cname": "https://support.google.com/domains/answer/3290350?hl=en&vid=1-635797029920152600-3792870146"
+  },
   "hostmonster.com": {
     "name":    "HostMonster",
     "arecord": "https://my.hostmonster.com/cgi/help/a_record",
