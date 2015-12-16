@@ -14,6 +14,11 @@
     "arecord": "https://support.cloudflare.com/hc/en-us/articles/200169096-How-do-I-add-A-records-",
     "cname":   "https://support.cloudflare.com/hc/en-us/articles/200169046-How-do-I-add-a-CNAME-record-"
   },
+  "cpanel": {
+    "name": "cPanel",
+    "arecord": "https://documentation.cpanel.net/display/ALD/Advanced+DNS+Zone+Editor",
+    "cname": "https://documentation.cpanel.net/display/ALD/Advanced+DNS+Zone+Editor"
+  },
   "digitalocean.com": {
     "name":    "Digital Ocean",
     "arecord": "https://www.digitalocean.com/community/tutorials/how-to-set-up-a-host-name-with-digitalocean#step-three",
