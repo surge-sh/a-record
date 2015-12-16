@@ -84,6 +84,11 @@
     "arecord": "https://www.linode.com/docs/networking/dns/dns-manager#the-dns-manager-page",
     "cname":   "https://www.linode.com/docs/networking/dns/dns-manager#the-dns-manager-page"
   },
+  "name.com": {
+    "name": "Name.com",
+    "arecord": "https://www.name.com/support/articles/205516858-DNS-Record-Types",
+    "cname": "https://www.name.com/support/articles/205516858-DNS-Record-Types"
+  },
   "namecheap.com": {
     "name":    "Namecheap",
     "arecord": "http://www.namecheap.com/support/knowledgebase/article.aspx/319/78/",
