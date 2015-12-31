@@ -4,6 +4,11 @@
     "arecord": "https://help.1and1.com/domains-c36931/manage-domains-c79822/dns-c37586/editchange-a-domain-s-ip-address-a-record-a599296.html",
     "cname":   "https://help.1and1.com/domains-c36931/manage-domains-c79822/dns-c37586/enter-a-cname-for-your-subdomain-a643600.html"
   },
+  "aws.amazon.com": {
+    "name":    "Amazon Route53",
+    "arecord": "http://docs.aws.amazon.com/Route53/latest/DeveloperGuide/ResourceRecordTypes.html#AFormat",
+    "cname":   "http://docs.aws.amazon.com/Route53/latest/DeveloperGuide/ResourceRecordTypes.html#CNAMEFormat"
+  },
   "bluehost.com": {
     "name":    "Bluehost",
     "arecord": "https://my.bluehost.com/cgi/help/559",
