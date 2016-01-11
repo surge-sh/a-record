@@ -101,8 +101,8 @@
   },
   "namecheap.com": {
     "name":    "Namecheap",
-    "arecord": "http://www.namecheap.com/support/knowledgebase/article.aspx/319/78/",
-    "cname":   "https://www.namecheap.com/support/knowledgebase/article.aspx/1031/2"
+    "arecord": "https://www.namecheap.com/support/knowledgebase/article.aspx/319/78/how-can-i-setup-an-a-address-record-for-my-domain",
+    "cname":   "https://www.namecheap.com/support/knowledgebase/article.aspx/9646/10/how-can-i-set-up-a-cname-record-for-my-domain"
   },
   "networksolutions.com": {
     "name":    "Network Solutions",
