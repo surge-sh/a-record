@@ -2,7 +2,7 @@
   "name": "a-record",
   "version": "0.8.0",
   "description": "Share specific help for adding DNS Records to a domain.",
-  "homepage": "https://github.com/kennethormandy/a-record",
+  "homepage": "https://github.com/surge-sh/a-record",
   "author": "Kenneth Ormandy <kenneth@chloi.io> (http://kennethormandy.com)",
   "license": "MIT",
   "repository": "git@github.com:kennethormandy/a-record.git",
