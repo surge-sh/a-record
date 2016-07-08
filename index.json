@@ -41,8 +41,8 @@
   },
   "domain.com": {
     "name":    "Domain.com",
-    "arecord": "http://www.domain.com/knowledgebase/beta/article.bml?ArticleID=1919",
-    "cname":   "http://www.domain.com/knowledgebase/beta/article.bml?ArticleID=1682"
+    "arecord": "http://www1.domain.com/knowledgebase/beta/article.bml?ArticleID=1919",
+    "cname":   "http://www1.domain.com/knowledgebase/beta/article.bml?ArticleID=1682"
   },
   "domains.google.com": {
     "name":    "Google Domains",
