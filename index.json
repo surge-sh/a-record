@@ -109,6 +109,11 @@
     "arecord": "http://www.networksolutions.com/support/how-to-manage-advanced-dns-records/",
     "cname":   "http://www.networksolutions.com/support/how-to-manage-advanced-dns-records/"
   },
+  "noip.com": {
+    "name":    "No-IP",
+    "arecord": "https://www.noip.com/support/knowledgebase/how-to-configure-your-no-ip-hostname/",
+    "cname":   "https://www.noip.com/support/knowledgebase/cname-records/"
+  },
   "nomeo.be": {
     "name":    "Nomeo",
     "arecord": "http://www.nomeo.be/over-nomeo/nieuws/cnames-op-de-domeinnaam-root-nu-mogelijk.aspx",
